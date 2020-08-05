@@ -35,9 +35,7 @@
         <h3>Cara bergabung ke SanberBook</h3>
         <ol>
             <li>Mengunjungi website ini </li>
-            <li>Mendaftar di Form
-                <a href="form.html">Sign Up</a>
-            </li>
+            <li>Mendaftar di <a href="/Form">Form Sign Up</a></li>
             <li>Selesai</li>
         </ol>
     </div>

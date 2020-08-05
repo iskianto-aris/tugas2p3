@@ -15,6 +15,6 @@ Route::get('/', function () {
     return view('index');
 });
 
-Route::get('/', function () {
-    return view('form');
-});
+
+Route::get('/Form','AuthController@form');
+Route::post('/Form/proses', 'AuthController@proses');
